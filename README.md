@@ -112,4 +112,6 @@ For more information about this collection visit the webpage at the CU Boulder A
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
 ## Metadata Versions
+[Also include notes about metadata versions uploaded to Github. For example, date,  the file name, and a brief description of the change in metadata from its previous version.]
+ Example: 1st version: Boulder_Gay_Liberation_Collec_20250123144224.csv; Uploaded 2025-01-23; metadata uploaded to Luna with ARKs minted.
 
