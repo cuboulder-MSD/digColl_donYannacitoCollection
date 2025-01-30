@@ -1,5 +1,5 @@
 ## Description
-[Enter abstract of the collection, often found on the landing page and provided by the project owner]
+This collection contains recorded talks from the First Person Cinema screening series at the University of Colorado Boulder, hosted by CU Boulder Film Studies and the Rocky Mountain Film Center (RMFC) from the 1970s to the 2010s. Screening events were often organized and hosted by film professor Don Yannacito, as well as colleagues Stan Brakhage, Phil Solomon, Melinda Barlow, and others. In these recordings, visiting experimental filmmakers discuss their creative work screened on campus and answer questions from the audience, including faculty, students, and the public. Some additional recordings in this collection feature public talks and classroom lectures by experimental filmmakers that were not part of the First Person Cinema series at CU Boulder. All recordings were donated to the CU Boulder Libraries by professor Don Yannacito in 2021.
 
 Permanent address to digital collection: []().<br /> 
 Please use the same link when sharing or citing the collection.
