@@ -80,12 +80,13 @@ Used for chronological subject terms or temporal coverage.
 
 Terms used: 
 ### Subject Title
+A title used as a subject.
 
-
+Terms used: [Jaws (Motion picture : 1975)](https://lccn.loc.gov/n80019727); [Clockwork orange (Motion picture)](http://id.loc.gov/authorities/names/n2003036275)
 ### Identifier
 Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
 
-Example:
+Example: narv_yannacitoDon_172_1997-09-29_sueFriedrich_a.mp3
 ### Identifier LUNA	
 Original link in LUNA to the resource. 
 ### Identifier ARK
@@ -93,11 +94,11 @@ Controlled, stable link to the resource.
 
 Example:
 ### Physical Location
-The institution or repository that holds the resource or where it is available:
+The institution or repository that holds the resource or where it is available: University of Colorado Boulder Libraries Rare and Distinctive Collections
 ### Shelf Locator
 Shelfmark or other shelving designation that indicates the location identifier for a resource. 
 
-Example: 
+Example: COU: 5045 | Tape 172
 ### Related Item
 Information that identifies other resources related to the one being described. This includes title, item ID, item ARK, and a term to describe how the item is related.
 ### Access Condition
@@ -107,8 +108,8 @@ Statement in collection:
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 ## Resources
-For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; []().
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [https://archives.colorado.edu/repositories/2/resources/2538](https://archives.colorado.edu/repositories/2/resources/2538).
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
 ## Metadata Versions
-[Also include notes about metadata versions uploaded to Github. For example, date,  the file name, and a brief description of the change in metadata from its previous version.]
+
