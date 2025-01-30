@@ -5,7 +5,7 @@ Permanent address to digital collection: [https://doi.org/10.60807/s2ee-9n04](ht
 Please use the same link when sharing or citing the collection.
 ## Metadata
 ### Collection Name
-Name of the collection:
+Name of the collection: Don Yannacito Collection
 ### Content Note
 Advisory note warning the user of content that could be triggering due to graphic/objectionable language and depictions.
 ### Title
@@ -13,19 +13,19 @@ Title derived from original captions on the work by the creator. If the original
 ### Name
 Individual(s) or corporate entities that created or are associated with the work. 
 
-Common names seen in the collection include: 
+Common names seen in the collection include: Yannacito, Don; Brakhage, Stan; Jacobs, Ken, 1933-; Solomon, Phil; Leaf, Caroline; Lucier, Mary; Frampton, Hollis, 1936-1984 
 ### Resource Type
 A term that specifies the characteristics and general type of content of the resource. 
 
-Type terms used in this collection include: 
+Type terms used in this collection include: Audio
 ### Genre
 A term or terms that designate a category characterizing a particular style, form, or content. 
 
-Genre terms used in the collection include:
+Genre terms used in the collection include: [presentations (communicative events)](http://vocab.getty.edu/page/aat/300258677)
 ### Place Created
 Location of work creation or publication city. 
 
-Places include:
+Places include: Boulder (Colo.)
 ### Publisher
 The name of the entity that published, printed, distributed, released, issued, or produced the resource.
 ### Date Issued
@@ -35,27 +35,27 @@ Date ranges include:
 ### Date Created
 The date of creation of the resource. 
 
-Date ranges include:
+Date ranges include: 1978-2005
 ### Date Digitized
 The date on which the resource was digitized or a subsequent snapshot was taken. 
 
-Dates include:
+Dates include: 2024
 ### Edition
 A particular form or version of a published text.
 ### Language
 Contains the textual or coded form for the language of the content of the resource. 
 
-Language(s) seen in this collection include:
+Language(s) seen in this collection include: English
 ### Extent
 The size or scale of the work.
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
 
-Form terms include:
+Form terms include: audiocassettes
 ### Internet Media Type: 
 Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
 
-Media type(s) in this collection:
+Media type(s) in this collection: audio/mp3
 ### Digital Origin
 The method by which a resource achieved digital form.
 
@@ -66,9 +66,11 @@ Additional notes or description of the content of the item. May contain cataloge
 ### Subject Topic
 A term or phrase representing the primary topic(s) on which a work is focused. 
 
-Common subject terms used in this collection include:
+Common subject terms used in this collection include: [Experimental films](https://id.loc.gov/authorities/subjects/sh85046442); [Motion pictures--Editing](https://id.loc.gov/authorities/subjects/sh85088098)
 ### Subject Name
 A name used as a subject or additional authors, recipients, or names mentioned within the record.
+
+Common subject names used in this collection include: [Brakhage, Stan](http://id.loc.gov/authorities/names/n82017258)
 ### Subject Geographic
 Geographic location(s) relevant to the item. 
 
@@ -77,6 +79,9 @@ Some coverage terms used in the collection include:
 Used for chronological subject terms or temporal coverage. 
 
 Terms used: 
+### Subject Title
+
+
 ### Identifier
 Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
 
