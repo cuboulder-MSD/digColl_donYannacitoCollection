@@ -92,7 +92,7 @@ Original link in LUNA to the resource.
 ### Identifier ARK
 Controlled, stable link to the resource. 
 
-Example:
+Example: https://ark.colorado.edu/ark:/47540/401q8n85q32s
 ### Physical Location
 The institution or repository that holds the resource or where it is available: University of Colorado Boulder Libraries Rare and Distinctive Collections
 ### Shelf Locator
@@ -112,6 +112,5 @@ For more information about this collection visit the webpage at the CU Boulder A
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
 ## Metadata Versions
-[Also include notes about metadata versions uploaded to Github. For example, date,  the file name, and a brief description of the change in metadata from its previous version.]
- Example: 1st version: Boulder_Gay_Liberation_Collec_20250123144224.csv; Uploaded 2025-01-23; metadata uploaded to Luna with ARKs minted.
+1st version: Don_Yannacito_Collection_20250217133448.csv; Uploaded 2025-02-17; metadata uploaded to Luna with ARKs minted.
 
